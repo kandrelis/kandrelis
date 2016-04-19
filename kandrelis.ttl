@@ -1,0 +1,41 @@
+@prefix as: <http://dilab77.ionio.gr/swp/kandrelis/vocab#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://api.talis.com/stores/space/items/tutorial/spared.html/> .
+
+
+stk:Teacher rdf:type rdfs:Class .
+stk:Lecture rdf:type rdfs:Class .
+stk:Classroom rdf:type rdfs:Class .
+stk:Lesson rdf:type rdfs:Class .
+
+
+stk:Teacher rdfs:subClassOf foaf:Person .
+
+
+stk:Teaching  rdf:type rdf:Property .            
+stk:Teachingin rdf:type rdf:Property .
+stk:Teachingthe rdf:type rdf:Property .
+stk:Date rdf:type rdf:Property .
+stk:tstart rdf:type rdf:Property .
+stk:tfinish rdf:type rdf:Property .
+stk:semester rdf:type rdf:Property .
+
+
+stk:Teaching  rdfs:domain  rdfs:Lecture.            
+stk:Teachingin rdfs:domain rdfs:Lecture.
+stk:Teachingthe rdfs:domain rdfs:Lecture.
+stk:Date rdfs:domain rdfs:Lecture.
+stk:tstart rdfs:domain rdfs:Lecture.
+stk:tfinish rdfs:domain rdfs:Lecture. 
+stk:semester rdfs:domain rdfs:Lecture.
+
+
+stk:Teaching rdfs:range rdfs: Literal .           
+stk:Teachingin rdfs:range rdfs: Literal.
+stk:Teachingthe rdfs:range rdfs: Literal .
+stk:Date rdfs:range  xsd:date .                          
+stk:tstart rdfs:range xsd:time .                        
+stk:tfinish rdfs:range rdfs:time .
+stk:semester rdfs:range rdfs:Literal .

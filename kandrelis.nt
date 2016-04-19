@@ -1,0 +1,39 @@
+_:bdnode0 
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΜΥΛΩΝΑΣ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΕΞΟΡΥΞΗ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΓΑΛΗΝΟΣ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Classroom> .
+
+_:bdnode1 
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΣΤΕΦΑΝΙΔΑΚΗΣ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dilab77.ionio.gr/swp/kandrelis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΣΗΜΑΣΙΟΛΟΓΙΚΟΣ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
+
+_:bdnode2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΒΛΑΜΟΣ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΒΙΟΠΛΗΡΟΦΟΡΙΚΗ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
+
+_:bdnode3 
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΠΛΗΡ%20ΣΤΗΝ%20ΕΚΠ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
+
+_:bdnode4 
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΚΕΡΜΑΝΙΔΟΥ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΠΛΗΡ%20ΚΑΙ%20ΝΕΑ%20ΜΕΣΑ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
+
+_:bdnode5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΠΑΤΕΛΗ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΗΕ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
+
+_:bdnode6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΟΙΚΟΝΟΜΟΥ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΨΥΧ%20ΛΟΓ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
+
+_:bdnode7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΜΑΓΚΟΣ%2CΤΣΩΧΟΥ%2CΧΡΥΣΙΚΟΠΟΥΛΟΣ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΑΣΦ%20ΠΣ%20ΚΑΙ%20ΔΙΚΤΥΩΝ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
+
+_:bdnode8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lecture> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΑΥΛΩΝΙΤΗΣ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Teacher> .
+<http://dilab77.ionio.gr/swp/kandrelis/resource/ΠΡΟΣ%20ΚΑΙ%20ΜΟΝΤ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/kandrelis/vocab#Lesson> .
